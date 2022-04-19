@@ -25,9 +25,16 @@ clone the rebo , install the packages needed then run  V1.py or V2.py
 
 ## Screenshots
 
-![](ICONS/1.png)
-![](ICONS/2.png)
-![alt text](ICONS/Siganl_monitor_GIF.gif)
+![](ScreenShots/ss1.png)
+![](ScreenShots/ss2.png)
+![](ScreenShots/ss3.png)
+![](ScreenShots/ss4.png)
+![](ScreenShots/ss5.png)
+
+
+
+![alt text](ScreenShots/GIF1.gif)
+![alt text](ScreenShots/GIF2.gif)
 
 
 
