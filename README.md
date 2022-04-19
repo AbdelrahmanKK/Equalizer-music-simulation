@@ -8,10 +8,12 @@ Application for musical instruments emphasizer where:
 - The user can see the song histogram while running the signal .
 - **signal equalizer where the user can reduce/null/increase the contribution of any of the
 instruments in the song or music file.**
--For each instrument, there is a slider that represent the gain of this specific instrument in the output
+- For each instrument, there is a slider that represent the gain of this specific instrument in the output
 volume. the user can move it up or down to increase or decrease the weight of this instrument without affecting the other
 instruments. This should reflect on the played sound, and the displayed histogram.
--In a separate tab in the application,there is a simulation program of the output of three musical instruments, Piano, drums and guitar.
+
+
+- In a separate tab in the application,there is a simulation program of the output of three musical instruments, Piano, drums and guitar.
 
 
 ## Getting Started
