@@ -19,6 +19,7 @@ instruments. This should reflect on the played sound, and the displayed histogra
 ## Getting Started
 there are 2 editions with 2 different UI design.
 clone the rebo , install the packages needed then run  V1.py or V2.py
+
 test the app using the test files (mainTestFile is recommended)
 
 
