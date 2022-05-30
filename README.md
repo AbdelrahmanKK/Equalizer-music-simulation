@@ -22,7 +22,10 @@ clone the rebo , install the packages needed then run  V1.py or V2.py
 
 test the app using the test files (mainTestFile is recommended)
 
+# DEMO (GIF)
 
+![alt text](ScreenShots/GIF1.gif)
+![alt text](ScreenShots/GIF2.gif)
 
 
 ## Screenshots
@@ -35,8 +38,7 @@ test the app using the test files (mainTestFile is recommended)
 
 
 
-![alt text](ScreenShots/GIF1.gif)
-![alt text](ScreenShots/GIF2.gif)
+
 
 
 
